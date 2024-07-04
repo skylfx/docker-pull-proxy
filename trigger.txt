@@ -1,1 +1,1 @@
-semitechnologies/weaviate:1.19.0 registry.cn-hangzhou.aliyuncs.com/skylfx/weaviate:1.19.0
+postgres:15-alpine registry.cn-hangzhou.aliyuncs.com/skylfx/postgres:15-alpine
