@@ -1,1 +1,1 @@
-langgenius/dify-api:0.6.12-fix1 registry.cn-hangzhou.aliyuncs.com/skylfx/dify-api:0.6.12-fix1
+langgenius/dify-web:0.6.12-fix1 registry.cn-hangzhou.aliyuncs.com/skylfx/dify-web:0.6.12-fix1
