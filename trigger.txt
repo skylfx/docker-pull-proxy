@@ -1,1 +1,1 @@
-langgenius/dify-web:0.6.12-fix1 registry.cn-hangzhou.aliyuncs.com/skylfx/langgenius/dify-web:0.6.12-fix1
+semitechnologies/weaviate:1.19.0 registry.cn-hangzhou.aliyuncs.com/skylfx/weaviate:1.19.0
